@@ -12,7 +12,7 @@ A modern UI for managing teachers, their schedules, profiles, and qualifications
 
 ## 🎥 Loom Demo
 
-👉 [Watch Loom Video](https://www.loom.com/share/your-looom-video-id)
+👉 [Watch Loom Video](https://www.loom.com/share/2da13b5b573c44adb4c6150c969d226b?sid=5e0029c9-6ed9-4292-92ea-afcc4acccf10)
 
 ---
 
