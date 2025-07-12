@@ -18,7 +18,7 @@ A modern UI for managing teachers, their schedules, profiles, and qualifications
 
 ## 📂 Repository Link
 
-👉 [GitHub Repo](https://github.com/yourusername/teacher-management-ui)
+👉 [GitHub Repo](https://github.com/Kamalsharma29/teacher-management-ui))
 
 ---
 
