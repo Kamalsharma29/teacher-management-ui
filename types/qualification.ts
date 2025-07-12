@@ -1,7 +1,8 @@
+export type QualificationType = "private" | "group";
 
 export interface Qualification {
   name: string;
-  type: "private" | "group"; 
   rate: number;
+  type: QualificationType;
 }
 
