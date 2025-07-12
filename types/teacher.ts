@@ -15,5 +15,8 @@ export interface Teacher {
   };
   qualifications: Qualification[];
 }
+export type { Qualification } from "./qualification";
+
+
 
 
