@@ -6,7 +6,7 @@ A modern UI for managing teachers, their schedules, profiles, and qualifications
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://your-vercel-or-netlify-url.com)
+👉 [View Live Demo](https://teacher-management-ui-we3p.vercel.app/)
 
 ---
 
